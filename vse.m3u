@@ -1,895 +1,778 @@
 #EXTM3U
-#EXTINF:-1,Первый канал
+
+#EXTINF:-1 group-title="O'zbekiston",Первый канал
 https://stream8.cinerama.uz/1019/tracks-v1a1/mono.m3u8
-#EXTINF:-1,НТВ
+#EXTINF:-1 group-title="O'zbekiston",НТВ
 https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Авто 24
+#EXTINF:-1 group-title="O'zbekiston",Авто 24
 https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZO‘R TV HD
+#EXTINF:-1 group-title="O'zbekiston",ZO'R TV HD
 https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Yoshlar
+#EXTINF:-1 group-title="O'zbekiston",Yoshlar
 https://stream8.cinerama.uz/1002/tracks-v1a1/mono.m3u8
-#EXTINF:-1,O‘zbekiston
+#EXTINF:-1 group-title="O'zbekiston",O'zbekiston
 https://stream8.cinerama.uz/1001/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TV1000 Русское Кино
-https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TV1000 ACTION HD
-https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TV1000
-https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Turan TV
-https://stream8.cinerama.uz/1261/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TRT Muzik
-https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TRT Haber
-https://stream8.cinerama.uz/1257/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TRT Avaz
-https://stream8.cinerama.uz/1258/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Toshkent
+#EXTINF:-1 group-title="O'zbekiston",Toshkent
 https://stream8.cinerama.uz/1003/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Taraqqiyot TV
+#EXTINF:-1 group-title="O'zbekiston",Taraqqiyot TV
 https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sevimli
+#EXTINF:-1 group-title="O'zbekiston",Sevimli
 https://stream8.cinerama.uz/1017/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Renessans TV
+#EXTINF:-1 group-title="O'zbekiston",Renessans TV
 https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Qazaqstan
-https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
-#EXTINF:-1,O‘zbekiston Tarixi HD
+#EXTINF:-1 group-title="O'zbekiston",O'zbekiston Tarixi HD
 https://stream8.cinerama.uz/1209/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Uzbekistan 24
+#EXTINF:-1 group-title="O'zbekiston",Uzbekistan 24
 https://stream8.cinerama.uz/1011/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Nurafshon TV
+#EXTINF:-1 group-title="O'zbekiston",Nurafshon TV
 https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
-#EXTINF:-1,NTV UZ
+#EXTINF:-1 group-title="O'zbekiston",NTV UZ
 https://stream8.cinerama.uz/1284/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Navo
+#EXTINF:-1 group-title="O'zbekiston",Navo
 https://stream8.cinerama.uz/1008/tracks-v1a1/mono.m3u8
-#EXTINF:-1,NHK World Japan
-https://stream8.cinerama.uz/1449/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Myday TV
+#EXTINF:-1 group-title="O'zbekiston",Myday TV
 https://stream8.cinerama.uz/1265/tracks-v1a1/mono.m3u8
-#EXTINF:-1,MY5
+#EXTINF:-1 group-title="O'zbekiston",MY5
 https://stream8.cinerama.uz/1217/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Milliy TV
+#EXTINF:-1 group-title="O'zbekiston",Milliy TV
 https://stream8.cinerama.uz/1014/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Mening Yurtim
+#EXTINF:-1 group-title="O'zbekiston",Mening Yurtim
 https://stream8.cinerama.uz/1012/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Mahalla
+#EXTINF:-1 group-title="O'zbekiston",Mahalla
 https://stream8.cinerama.uz/1013/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Madaniyat va Ma’rifat
+#EXTINF:-1 group-title="O'zbekiston",Madaniyat va Ma'rifat
 https://stream8.cinerama.uz/1005/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Lux TV
+#EXTINF:-1 group-title="O'zbekiston",Lux TV
 https://stream8.cinerama.uz/1210/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Kinoteatr
+#EXTINF:-1 group-title="O'zbekiston",Kinoteatr
 https://stream8.cinerama.uz/1009/tracks-v1a1/mono.m3u8
-#EXTINF:-1,KBS World
-https://stream8.cinerama.uz/1448/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Istiqlol TV
+#EXTINF:-1 group-title="O'zbekiston",Istiqlol TV
 https://stream8.cinerama.uz/1283/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Hollywood
-https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
-#EXTINF:-1,France 24
-https://stream8.cinerama.uz/1241/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Fox News
-https://stream8.cinerama.uz/1252/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Foreign Languages
-https://stream8.cinerama.uz/1010/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Fashion TV
-https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Euronews
-https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
-#EXTINF:-1,English Club
-https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Dunyo bo‘ylab
-https://stream8.cinerama.uz/1006/tracks-v1a1/mono.m3u8
-#EXTINF:-1,CNN
-https://stream8.cinerama.uz/1259/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Cinema
-https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1,CGTN
-https://stream8.cinerama.uz/1253/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bollywood
-https://stream8.cinerama.uz/1444/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bolajon
-https://stream8.cinerama.uz/1007/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bloomberg
-https://stream8.cinerama.uz/1255/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Biz Cinema
-https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BizTV HD
-https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BBC World
-https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Aqlvoy TV
+#EXTINF:-1 group-title="O'zbekiston",Aqlvoy TV
 https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1,8 Канал
-https://stream8.cinerama.uz/1262/tracks-v1a1/mono.m3u8
-#EXTINF:-1,365 Дней HD
-https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Duck TV
-https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Рыжий
-https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Мама
-https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Уникум
-https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Карусель
-https://stream8.cinerama.uz/1034/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Da Vinci
-https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Мультиландия
-https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Uzreport HD
+#EXTINF:-1 group-title="O'zbekiston",Uzreport HD
 https://stream8.cinerama.uz/1015/tracks-v1a1/mono.m3u8
-#EXTINF:-1,UzSport
-https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Setanta Sports 1 HD
-https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Setanta Sports 2 HD
-https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Viasat Sport
-https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
-#EXTINF:-1,KHL 2
-https://stream8.cinerama.uz/1422/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Insight TV HD
-https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Nat Geo Wild
-https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
-#EXTINF:-1,National Geographic
-https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Ocean TV
-https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Усадьба
+#EXTINF:-1 group-title="O'zbekiston",Dunyo bo'ylab
+https://stream8.cinerama.uz/1006/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="O'zbekiston",Bolajon
+https://stream8.cinerama.uz/1007/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="O'zbekiston",Biz Cinema
+https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="O'zbekiston",BizTV HD
+https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="O'zbekiston",Qazaqstan
+https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rossiya",TV1000 Русское Кино
+https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rossiya",TV1000 ACTION HD
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rossiya",TV1000
+https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rossiya",8 Канал
+https://stream8.cinerama.uz/1262/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rossiya",365 Дней HD
+https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rossiya",Рыжий
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rossiya",Мама
+https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rossiya",Уникум
+https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rossiya",Карусель
+https://stream8.cinerama.uz/1034/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rossiya",Мультиландия
+https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rossiya",Усадьба
 https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Kinopokaz
+#EXTINF:-1 group-title="Rossiya",Kinopokaz
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TNV-Planet
+#EXTINF:-1 group-title="Rossiya",TNV-Planet
 https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8
-#EXTINF:-1,5 minut tishiny
+#EXTINF:-1 group-title="Rossiya",5 minut tishiny
 https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
-#EXTINF:-1,12 канал
+#EXTINF:-1 group-title="Rossiya",12 канал
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
-#EXTINF:-1,15+ Music
-https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
-#EXTINF:-1,360°
+#EXTINF:-1 group-title="Rossiya",360°
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
-#EXTINF:-1,360° Новости
+#EXTINF:-1 group-title="Rossiya",360° Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:-1,365 days TV
-http://stream.mcquack.net/70/index.m3u8
-#EXTINF:-1,.black
+#EXTINF:-1 group-title="Rossiya",.black
 http://stream.mcquack.net/263/index.m3u8
-#EXTINF:-1,.red
+#EXTINF:-1 group-title="Rossiya",.red
 http://5.188.159.128:8070/RED/index.m3u8
-#EXTINF:-1,.sci-fi
+#EXTINF:-1 group-title="Rossiya",.sci-fi
 http://stream.mcquack.net/180/index.m3u8
-#EXTINF:-1,Afontovo
+#EXTINF:-1 group-title="Rossiya",Afontovo
 https://stream.afontovo.ru/hd.m3u8
-#EXTINF:-1,alpha Cinema
-https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1,Amedia Hit
+#EXTINF:-1 group-title="Rossiya",Amedia Hit
 http://stream.mcquack.net/162/index.m3u8
-#EXTINF:-1,ART
+#EXTINF:-1 group-title="Rossiya",ART
 http://89.104.114.24:8080/art/index.m3u8
-#EXTINF:-1,Avto24
+#EXTINF:-1 group-title="Rossiya",Avto24
 http://stream.mcquack.net/78/index.m3u8
-#EXTINF:-1,Balabol
+#EXTINF:-1 group-title="Rossiya",Balabol
 https://cdn-dvr.ntv.ru/Balabol/index.m3u8
-#EXTINF:-1,Blokbaster HD
+#EXTINF:-1 group-title="Rossiya",Blokbaster HD
 http://stream.mcquack.net/364/index.m3u8
-#EXTINF:-1,Bollywood HD Russia
-https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
-#EXTINF:-1,Bolt
+#EXTINF:-1 group-title="Rossiya",Bolt
 http://hls127.freeott.top:8080/Bolt/video.m3u8
-#EXTINF:-1,BRIDGE
-http://stream.mcquack.net/318/index.m3u8
-#EXTINF:-1,BRIDGE Classic
-http://stream.mcquack.net/272/index.m3u8
-#EXTINF:-1,BRIDGE Deluxe HD
-http://stream.mcquack.net/92/index.m3u8
-#EXTINF:-1,BRIDGE Hits
-http://stream.mcquack.net/320/index.m3u8
-#EXTINF:-1,Carousel
+#EXTINF:-1 group-title="Rossiya",Carousel
 http://185.37.150.46/Karusel/index.m3u8
-#EXTINF:-1,Channel 8
+#EXTINF:-1 group-title="Rossiya",Channel 8
 http://45.11.139.43:8555/8kanal/index.m3u8
-#EXTINF:-1,Channel One HD
+#EXTINF:-1 group-title="Rossiya",Channel One HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1,Classic Music
-http://stream.mcquack.net/312/index.m3u8
-#EXTINF:-1,DanceHits80
-http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:-1,Dikaya okhota HD
+#EXTINF:-1 group-title="Rossiya",Dikaya okhota HD
 http://stream.mcquack.net/274/index.m3u8
-#EXTINF:-1,Dikaya rybalka HD
+#EXTINF:-1 group-title="Rossiya",Dikaya rybalka HD
 http://stream.mcquack.net/275/index.m3u8
-#EXTINF:-1,Dikij
+#EXTINF:-1 group-title="Rossiya",Dikij
 http://hls127.freeott.top:8080/Dikiy/video.m3u8
-#EXTINF:-1,Dom kino
+#EXTINF:-1 group-title="Rossiya",Dom kino
 http://stream.mcquack.net/236/index.m3u8
-#EXTINF:-1,Dom kino Premium HD
+#EXTINF:-1 group-title="Rossiya",Dom kino Premium HD
 http://stream.mcquack.net/108/index.m3u8
-#EXTINF:-1,Domashniy SD
+#EXTINF:-1 group-title="Rossiya",Domashniy SD
 http://stream.mcquack.net/227/index.m3u8
-#EXTINF:-1,Dorama
-https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Drive
-https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Dushevnoe HD
+#EXTINF:-1 group-title="Rossiya",Dushevnoe HD
 http://stream.mcquack.net/213/index.m3u8
-#EXTINF:-1,Euronews Russian
-https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
-#EXTINF:-1,Evrokino HD
+#EXTINF:-1 group-title="Rossiya",Evrokino HD
 http://stream.mcquack.net/385/index.m3u8
-#EXTINF:-1,Fashion&LifeStyle
-http://stream.mcquack.net/119/index.m3u8
-#EXTINF:-1,First Music Channel Russia
-http://hls127.freeott.top:8080/1muz_HD/video.m3u8
-#EXTINF:-1,FoodTime
-http://stream.mcquack.net/216/index.m3u8
-#EXTINF:-1,Fox
+#EXTINF:-1 group-title="Rossiya",Fox
 http://stream.mcquack.net/182/index.m3u8
-#EXTINF:-1,Fox Life
+#EXTINF:-1 group-title="Rossiya",Fox Life
 http://stream.mcquack.net/129/index.m3u8
-#EXTINF:-1,Friday!
+#EXTINF:-1 group-title="Rossiya",Friday!
 http://stream.mcquack.net/181/index.m3u8
-#EXTINF:-1,Gagsnetwork
-http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
-#EXTINF:-1,Glazami Turista
-https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Groznyj
+#EXTINF:-1 group-title="Rossiya",Groznyj
 https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8
-#EXTINF:-1,Gulli Girl
-https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Hit HD
+#EXTINF:-1 group-title="Rossiya",Hit HD
 http://hls127.freeott.top:8080/XitHD/video.m3u8
-#EXTINF:-1,Horoshee Kino
+#EXTINF:-1 group-title="Rossiya",Horoshee Kino
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
-#EXTINF:-1,Indiyskoye Kino
+#EXTINF:-1 group-title="Rossiya",Indiyskoye Kino
 http://188.113.190.12/329/index.m3u8
-#EXTINF:-1,Istoki
+#EXTINF:-1 group-title="Rossiya",Istoki
 https://istoki.tv/live/stream1/playlist.m3u8
-#EXTINF:-1,Istoriya
+#EXTINF:-1 group-title="Rossiya",Istoriya
 http://hls127.freeott.top:8080/Istoriya/video.m3u8
-#EXTINF:-1,Kapitan Fantastika
+#EXTINF:-1 group-title="Rossiya",Kapitan Fantastika
 http://stream.mcquack.net/144/index.m3u8
-#EXTINF:-1,KHL Prime
-http://stream.mcquack.net/178/index.m3u8
-#EXTINF:-1,Kino TV HD
+#EXTINF:-1 group-title="Rossiya",Kino TV HD
 http://176.118.197.101/KinoTvHD/playlist.m3u8
-#EXTINF:-1,KinoHit
+#EXTINF:-1 group-title="Rossiya",KinoHit
 http://stream.mcquack.net/126/index.m3u8
-#EXTINF:-1,Kinokomedija
+#EXTINF:-1 group-title="Rossiya",Kinokomedija
 http://stream.mcquack.net/265/index.m3u8
-#EXTINF:-1,Kinomix
+#EXTINF:-1 group-title="Rossiya",Kinomix
 http://93.170.254.17/Kinomiks/index.m3u8
-#EXTINF:-1,Kinopokaz HD
+#EXTINF:-1 group-title="Rossiya",Kinopokaz HD
 http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
-#EXTINF:-1,Kinopremyera
+#EXTINF:-1 group-title="Rossiya",Kinopremyera
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
-#EXTINF:-1,Kinosemja
+#EXTINF:-1 group-title="Rossiya",Kinosemja
 http://stream.mcquack.net/170/index.m3u8
-#EXTINF:-1,Kinoseriya
+#EXTINF:-1 group-title="Rossiya",Kinoseriya
 http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
-#EXTINF:-1,Kinosvidanie
+#EXTINF:-1 group-title="Rossiya",Kinosvidanie
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
-#EXTINF:-1,Kinouzhas
+#EXTINF:-1 group-title="Rossiya",Kinouzhas
 http://stream.mcquack.net/278/index.m3u8
-#EXTINF:-1,Kluch
+#EXTINF:-1 group-title="Rossiya",Kluch
 http://hls127.freeott.top:8080/Kluch/video.m3u8
-#EXTINF:-1,KN Music TV
-https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Komedia
+#EXTINF:-1 group-title="Rossiya",Komedia
 http://stream.mcquack.net/68/index.m3u8
-#EXTINF:-1,Komediynoe HD
+#EXTINF:-1 group-title="Rossiya",Komediynoe HD
 http://stream.mcquack.net/74/index.m3u8
-#EXTINF:-1,Kongress TV
+#EXTINF:-1 group-title="Rossiya",Kongress TV
 https://live-3.otcnet.ru/congresstv/index.m3u8
-#EXTINF:-1,Kuhnya
+#EXTINF:-1 group-title="Rossiya",Kuhnya
 http://stream.mcquack.net/179/index.m3u8
-#EXTINF:-1,Kulinar TV
+#EXTINF:-1 group-title="Rossiya",Kulinar TV
 https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
-#EXTINF:-1,KVN TV
+#EXTINF:-1 group-title="Rossiya",KVN TV
 http://178.124.179.122:8080/KVN-TV/index.m3u8
-#EXTINF:-1,Maidan
-https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
-#EXTINF:-1,Match! Boets
-http://stream.mcquack.net/112/index.m3u8
-#EXTINF:-1,Match! Ultra
-http://stream.mcquack.net/169/index.m3u8
-#EXTINF:-1,Mezzo Live
+#EXTINF:-1 group-title="Rossiya",Mama
+http://stream.mcquack.net/79/index.m3u8
+#EXTINF:-1 group-title="Rossiya",Mezzo Live
 http://stream.mcquack.net/276/index.m3u8
-#EXTINF:-1,Mir HD
+#EXTINF:-1 group-title="Rossiya",Mir HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1,Mir Kazakhstan
-http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
-#EXTINF:-1,MMA TV.com
-https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
-#EXTINF:-1,Moskva 24
+#EXTINF:-1 group-title="Rossiya",Moskva 24
 https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
-#EXTINF:-1,Moskva. Doveriye
+#EXTINF:-1 group-title="Rossiya",Moskva. Doveriye
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
-#EXTINF:-1,Moy mir
-https://moymir.ru/hls/onair.m3u8
-#EXTINF:-1,Moya Planeta
+#EXTINF:-1 group-title="Rossiya",Moya Planeta
 http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Moya stikhiya HD
+#EXTINF:-1 group-title="Rossiya",Moya stikhiya HD
 http://stream.mcquack.net/141/index.m3u8
-#EXTINF:-1,Mult i muzyka
-http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8
-#EXTINF:-1,Muzhskoe kino
+#EXTINF:-1 group-title="Rossiya",Muzhskoe kino
 http://stream.mcquack.net/107/index.m3u8
-#EXTINF:-1,Muzyka Live
-http://stream.mcquack.net/303/index.m3u8
-#EXTINF:-1,Muzyka Pervogo
-http://stream.mcquack.net/153/index.m3u8
-#EXTINF:-1,Nano
+#EXTINF:-1 group-title="Rossiya",Nano
 http://stream.mcquack.net/419/index.m3u8
-#EXTINF:-1,Nashe HD
+#EXTINF:-1 group-title="Rossiya",Nashe HD
 http://stream.mcquack.net/217/index.m3u8
-#EXTINF:-1,Nashe Lubimoe Kino
+#EXTINF:-1 group-title="Rossiya",Nashe Lubimoe Kino
 http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
-#EXTINF:-1,Nashe muzhskoe HD
+#EXTINF:-1 group-title="Rossiya",Nashe muzhskoe HD
 http://stream.mcquack.net/362/index.m3u8
-#EXTINF:-1,Nashe Novoe Kino
+#EXTINF:-1 group-title="Rossiya",Nashe Novoe Kino
 http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
-#EXTINF:-1,Nevskiy
+#EXTINF:-1 group-title="Rossiya",National Geographic
+http://stream.mcquack.net/116/index.m3u8
+#EXTINF:-1 group-title="Rossiya",Nevskiy
 https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
-#EXTINF:-1,Nickelodeon
+#EXTINF:-1 group-title="Rossiya",Nickelodeon
 http://stream.mcquack.net/443/index.m3u8
-#EXTINF:-1,Nostalgia
+#EXTINF:-1 group-title="Rossiya",Nostalgia
 http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
-#EXTINF:-1,NST
+#EXTINF:-1 group-title="Rossiya",NST
 http://hls127.freeott.top:8080/HCTV/video.m3u8
-#EXTINF:-1,NTV HD
+#EXTINF:-1 group-title="Rossiya",NTV HD
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
-#EXTINF:-1,NTV Law
+#EXTINF:-1 group-title="Rossiya",NTV Law
 http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8
-#EXTINF:-1,NTV SD
+#EXTINF:-1 group-title="Rossiya",NTV SD
 http://45.153.24.78/NTV/index.m3u8
-#EXTINF:-1,NTV Series
+#EXTINF:-1 group-title="Rossiya",NTV Series
 http://stream.mcquack.net/301/index.m3u8
-#EXTINF:-1,NTV Style
+#EXTINF:-1 group-title="Rossiya",NTV Style
 http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8
-#EXTINF:-1,NTV Vitrina
+#EXTINF:-1 group-title="Rossiya",NTV Vitrina
 https://cdn.ntv.ru/vitrina/index.m3u8
-#EXTINF:-1,O!
+#EXTINF:-1 group-title="Rossiya",O!
 http://stream.mcquack.net/60/index.m3u8
-#EXTINF:-1,Ohotnik i rybolov
-https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Ohotnik i rybolov HD
+#EXTINF:-1 group-title="Rossiya",Ohotnik i rybolov HD
 http://stream.mcquack.net/194/index.m3u8
-#EXTINF:-1,Okhota i rybalka
+#EXTINF:-1 group-title="Rossiya",Okhota i rybalka
 http://stream.mcquack.net/155/index.m3u8
-#EXTINF:-1,Okko Futbol
-http://stream.mcquack.net/491/index.m3u8
-#EXTINF:-1,Okko Prajm Sport
-http://stream.mcquack.net/493/index.m3u8
-#EXTINF:-1,Okko Sport
-http://stream.mcquack.net/492/index.m3u8
-#EXTINF:-1,Ostrosyuzhetnoye HD
+#EXTINF:-1 group-title="Rossiya",Ostrosyuzhetnoye HD
 http://stream.mcquack.net/214/index.m3u8
-#EXTINF:-1,Patriot
+#EXTINF:-1 group-title="Rossiya",Patriot
 https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
-#EXTINF:-1,Perviy otdel
+#EXTINF:-1 group-title="Rossiya",Perviy otdel
 https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
-#EXTINF:-1,Pes
+#EXTINF:-1 group-title="Rossiya",Pes
 https://cdn-dvr.ntv.ru/Pes/index.m3u8
-#EXTINF:-1,Premialnoe HD
+#EXTINF:-1 group-title="Rossiya",Premialnoe HD
 http://stream.mcquack.net/421/index.m3u8
-#EXTINF:-1,Priklyucheniya HD
+#EXTINF:-1 group-title="Rossiya",Priklyucheniya HD
 http://stream.mcquack.net/198/index.m3u8
-#EXTINF:-1,Pro Business
+#EXTINF:-1 group-title="Rossiya",Pro Business
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
-#EXTINF:-1,Pro Lyubov
+#EXTINF:-1 group-title="Rossiya",Pro Lyubov
 http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
-#EXTINF:-1,Prodvizhenie
+#EXTINF:-1 group-title="Rossiya",Prodvizhenie
 https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8
-#EXTINF:-1,Prosveshchenie
+#EXTINF:-1 group-title="Rossiya",Prosveshchenie
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
-#EXTINF:-1,Radio 1
-https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
-#EXTINF:-1,Radio Mir
-https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
-#EXTINF:-1,Radio Rossii
-https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
-#EXTINF:-1,RBK-TV SD
+#EXTINF:-1 group-title="Rossiya",RBK-TV SD
 http://hls127.freeott.top:8080/RBK/video.m3u8
-#EXTINF:-1,Retro
+#EXTINF:-1 group-title="Rossiya",Retro
 http://stream.mcquack.net/191/index.m3u8
-#EXTINF:-1,Rodnoe Kino
+#EXTINF:-1 group-title="Rossiya",Rodnoe Kino
 http://stream.mcquack.net/242/index.m3u8
-#EXTINF:-1,RT Balkan
-https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
-#EXTINF:-1,RT Documentary Russian
-https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
-#EXTINF:-1,RTG TV HD
+#EXTINF:-1 group-title="Rossiya",RTG TV HD
 http://stream.mcquack.net/164/index.m3u8
-#EXTINF:-1,RU.TV Kids
-https://rutvkids.ru/live/efir/index.m3u8
-#EXTINF:-1,Russia-1
+#EXTINF:-1 group-title="Rossiya",Russia-1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
-#EXTINF:-1,Russia-1 +4
+#EXTINF:-1 group-title="Rossiya",Russia-1 +4
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-#EXTINF:-1,Russia-1 +5
+#EXTINF:-1 group-title="Rossiya",Russia-1 +5
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-#EXTINF:-1,Russia-1 +6
+#EXTINF:-1 group-title="Rossiya",Russia-1 +6
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-#EXTINF:-1,Russia-1 +7
+#EXTINF:-1 group-title="Rossiya",Russia-1 +7
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
-#EXTINF:-1,Russia-1 +8
+#EXTINF:-1 group-title="Rossiya",Russia-1 +8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
-#EXTINF:-1,Russia-1 HD
+#EXTINF:-1 group-title="Rossiya",Russia-1 HD
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
-#EXTINF:-1,Russia-24 HD
+#EXTINF:-1 group-title="Rossiya",Russia-24 HD
 http://77.232.131.211/Rossiya24/index.m3u8
-#EXTINF:-1,Russia-K
+#EXTINF:-1 group-title="Rossiya",Russia-K
 http://stream.mcquack.net/229/index.m3u8
-#EXTINF:-1,Russia-K +4
+#EXTINF:-1 group-title="Rossiya",Russia-K +4
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
-#EXTINF:-1,Russia-K +7
+#EXTINF:-1 group-title="Rossiya",Russia-K +7
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
-#EXTINF:-1,Russia-K HD
+#EXTINF:-1 group-title="Rossiya",Russia-K HD
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
-#EXTINF:-1,Russian MusicBox
-http://stream.mcquack.net/319/index.m3u8
-#EXTINF:-1,Russkiy Bestseller
+#EXTINF:-1 group-title="Rossiya",Russkiy Bestseller
 http://stream.mcquack.net/208/index.m3u8
-#EXTINF:-1,Russkiy Detektiv
+#EXTINF:-1 group-title="Rossiya",Russkiy Detektiv
 http://stream.mcquack.net/204/index.m3u8
-#EXTINF:-1,Rybolov
+#EXTINF:-1 group-title="Rossiya",Rybolov
 http://stream.mcquack.net/264/index.m3u8
-#EXTINF:-1,Sankt-Peterburg HD
+#EXTINF:-1 group-title="Rossiya",Sankt-Peterburg HD
 https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
-#EXTINF:-1,Saphire
+#EXTINF:-1 group-title="Rossiya",Saphire
 http://77.232.131.211/Sapfir/manifest.m3u8
-#EXTINF:-1,Sarafan
+#EXTINF:-1 group-title="Rossiya",Sarafan
 http://stream.mcquack.net/81/index.m3u8
-#EXTINF:-1,Shanson TV
-http://catchup.videoline.ru/shanson/index.m3u8
-#EXTINF:-1,Shef
+#EXTINF:-1 group-title="Rossiya",Shef
 https://cdn-dvr.ntv.ru/Shef/index.m3u8
-#EXTINF:-1,Shokiruyushchee HD
+#EXTINF:-1 group-title="Rossiya",Shokiruyushchee HD
 http://stream.mcquack.net/75/index.m3u8
-#EXTINF:-1,Shopping Live
-https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8
-#EXTINF:-1,Shot TV
+#EXTINF:-1 group-title="Rossiya",Shot TV
 http://hls127.freeott.top:8080/SHOT_TV/video.m3u8
-#EXTINF:-1,Skoraya pomoshch
+#EXTINF:-1 group-title="Rossiya",Skoraya pomoshch
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
-#EXTINF:-1,Smile TV
+#EXTINF:-1 group-title="Rossiya",Smile TV
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:-1,Smotrim 100% Detskoe
+#EXTINF:-1 group-title="Rossiya",Smotrim 100% Detskoe
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
-#EXTINF:-1,Smotrim 100% Fakty
+#EXTINF:-1 group-title="Rossiya",Smotrim 100% Fakty
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
-#EXTINF:-1,Smotrim 100% Klassika
+#EXTINF:-1 group-title="Rossiya",Smotrim 100% Klassika
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
-#EXTINF:-1,Smotrim 100% Lyubov
+#EXTINF:-1 group-title="Rossiya",Smotrim 100% Lyubov
 https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
-#EXTINF:-1,Smotrim 100% Muzhskoe
+#EXTINF:-1 group-title="Rossiya",Smotrim 100% Muzhskoe
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
-#EXTINF:-1,Smotrim 100% Prazdnik
+#EXTINF:-1 group-title="Rossiya",Smotrim 100% Prazdnik
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
-#EXTINF:-1,Sochi Live HD
+#EXTINF:-1 group-title="Rossiya",Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1,Solovyov Live
+#EXTINF:-1 group-title="Rossiya",Solovyov Live
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
-#EXTINF:-1,Soyuzny
+#EXTINF:-1 group-title="Rossiya",Soyuzny
 http://178.124.179.122:8080/TRO/index.m3u8
-#EXTINF:-1,Spas
+#EXTINF:-1 group-title="Rossiya",Spas
 http://hls127.freeott.top:8080/Spas/video.m3u8
-#EXTINF:-1,Sportivnyy
+#EXTINF:-1 group-title="Rossiya",Sportivnyy
 https://live-3.otcnet.ru/sportivny/index.m3u8
-#EXTINF:-1,Star Cinema
-https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
-#EXTINF:-1,Star Family
-https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
-#EXTINF:-1,START Air
+#EXTINF:-1 group-title="Rossiya",START Air
 http://stream.mcquack.net/128/index.m3u8
-#EXTINF:-1,STS
+#EXTINF:-1 group-title="Rossiya",STS
 http://tshift-1.telecoma.tv/sts/index.m3u8
-#EXTINF:-1,STS HD
+#EXTINF:-1 group-title="Rossiya",STS HD
 http://stream.mcquack.net/138/index.m3u8
-#EXTINF:-1,Subbota! HD
+#EXTINF:-1 group-title="Rossiya",Subbota! HD
 http://stream.mcquack.net/269/index.m3u8
-#EXTINF:-1,T24
+#EXTINF:-1 group-title="Rossiya",T24
 http://178.134.1.158:8081/t24/index.m3u8
-#EXTINF:-1,Teatr
+#EXTINF:-1 group-title="Rossiya",Teatr
 http://hls127.freeott.top:8080/Teatr/video.m3u8
-#EXTINF:-1,TeleDom
+#EXTINF:-1 group-title="Rossiya",TeleDom
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1,TiJi
+#EXTINF:-1 group-title="Rossiya",TiJi
 http://stream.mcquack.net/111/index.m3u8
-#EXTINF:-1,TNT SD
+#EXTINF:-1 group-title="Rossiya",TNT SD
 http://stream.mcquack.net/135/index.m3u8
-#EXTINF:-1,TNV-Tatarstan
-https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
-#EXTINF:-1,Tochka RF
+#EXTINF:-1 group-title="Rossiya",Tochka RF
 http://stream.mcquack.net/161/index.m3u8
-#EXTINF:-1,Tooku
-http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
-#EXTINF:-1,Top Secret
+#EXTINF:-1 group-title="Rossiya",Top Secret
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
-#EXTINF:-1,Trace Sport Stars Russia
-https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TV 21 International
+#EXTINF:-1 group-title="Rossiya",TV 21 International
 http://stream.mcquack.net/152/index.m3u8
-#EXTINF:-1,TV BRICS Russian
-https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
-#EXTINF:-1,TV Centr
+#EXTINF:-1 group-title="Rossiya",TV Centr
 http://hls127.freeott.top:8080/Tv_Center/video.m3u8
-#EXTINF:-1,TV PRO
+#EXTINF:-1 group-title="Rossiya",TV PRO
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
-#EXTINF:-1,TV-3
+#EXTINF:-1 group-title="Rossiya",TV-3
 http://178.124.179.122:8080/TB-3/index.m3u8
-#EXTINF:-1,U
+#EXTINF:-1 group-title="Rossiya",U
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
-#EXTINF:-1,UDAR
+#EXTINF:-1 group-title="Rossiya",UDAR
 http://5.188.159.128:8070/udar/index.m3u8
-#EXTINF:-1,Univer TV
+#EXTINF:-1 group-title="Rossiya",Univer TV
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
-#EXTINF:-1,V gostyakh u skazki
+#EXTINF:-1 group-title="Rossiya",Usadba
+http://stream.mcquack.net/211/index.m3u8
+#EXTINF:-1 group-title="Rossiya",V gostyakh u skazki
 http://stream.mcquack.net/93/index.m3u8
-#EXTINF:-1,V mire zhivotnykh
+#EXTINF:-1 group-title="Rossiya",V mire zhivotnykh
 http://stream.mcquack.net/241/index.m3u8
-#EXTINF:-1,Vesti FM
-https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
-#EXTINF:-1,viju Explore
+#EXTINF:-1 group-title="Rossiya",viju Explore
 http://stream.mcquack.net/239/index.m3u8
-#EXTINF:-1,viju History
+#EXTINF:-1 group-title="Rossiya",viju History
 http://178.124.179.122:8080/HistoryHD/index.m3u8
-#EXTINF:-1,viju Nature
-https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
-#EXTINF:-1,viju TV1000
+#EXTINF:-1 group-title="Rossiya",viju TV1000
 http://stream.mcquack.net/110/index.m3u8
-#EXTINF:-1,viju TV1000 action
+#EXTINF:-1 group-title="Rossiya",viju TV1000 action
 http://stream.mcquack.net/100/index.m3u8
-#EXTINF:-1,viju+ Comedy HD
+#EXTINF:-1 group-title="Rossiya",viju+ Comedy HD
 http://stream.mcquack.net/201/index.m3u8
-#EXTINF:-1,viju+ Megahit HD
+#EXTINF:-1 group-title="Rossiya",viju+ Megahit HD
 http://stream.mcquack.net/200/index.m3u8
-#EXTINF:-1,viju+ Planet HD
+#EXTINF:-1 group-title="Rossiya",viju+ Planet HD
 http://stream.mcquack.net/240/index.m3u8
-#EXTINF:-1,viju+ Premiere HD
+#EXTINF:-1 group-title="Rossiya",viju+ Premiere HD
 http://stream.mcquack.net/202/index.m3u8
-#EXTINF:-1,viju+ Serial HD
+#EXTINF:-1 group-title="Rossiya",viju+ Serial HD
 http://stream.mcquack.net/311/index.m3u8
-#EXTINF:-1,viju+ Sport
+#EXTINF:-1 group-title="Rossiya",viju+ Sport
 http://stream.mcquack.net/333/index.m3u8
-#EXTINF:-1,VITAL Drive
+#EXTINF:-1 group-title="Rossiya",Vital Drive
 https://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:-1,Vitrina TV
+#EXTINF:-1 group-title="Rossiya",Vitrina TV
 https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8
-#EXTINF:-1,Vkus
+#EXTINF:-1 group-title="Rossiya",Vkus
 http://178.134.1.158:8081/vkus/index.m3u8
-#EXTINF:-1,Zagorodnaya Zhizn
+#EXTINF:-1 group-title="Rossiya",Zagorodnaya Zhizn
 http://185.57.68.33/40/index.m3u8
-#EXTINF:-1,Zhara
-http://hls127.freeott.top:8080/Zhara/video.m3u8
-#EXTINF:-1,Zhivaya priroda
+#EXTINF:-1 group-title="Rossiya",Zhivaya priroda
 http://stream.mcquack.net/83/index.m3u8
-#EXTINF:-1,Zhivaya priroda HD
+#EXTINF:-1 group-title="Rossiya",Zhivaya priroda HD
 http://stream.mcquack.net/225/index.m3u8
-#EXTINF:-1,Zoopark
-https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Zvezda
+#EXTINF:-1 group-title="Rossiya",Zvezda
 http://51.158.144.33:2021/zvezda/index.m3u8
-#EXTINF:-1,Zvezda HD
+#EXTINF:-1 group-title="Rossiya",Zvezda HD
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1,Zvezda Plus HD
+#EXTINF:-1 group-title="Rossiya",Zvezda Plus HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:-1,Аист ТВ
+#EXTINF:-1 group-title="Rossiya",Аист ТВ
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-#EXTINF:-1,Арис 24
+#EXTINF:-1 group-title="Rossiya",Арис 24
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:-1,Арктика 24 Архангельск
+#EXTINF:-1 group-title="Rossiya",Арктика 24 Архангельск
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
-#EXTINF:-1,Архыз 24
+#EXTINF:-1 group-title="Rossiya",Архыз 24
 https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
-#EXTINF:-1,Астрахань 24
+#EXTINF:-1 group-title="Rossiya",Астрахань 24
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
-#EXTINF:-1,Астрахань.Ru Sport
+#EXTINF:-1 group-title="Rossiya",Астрахань.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:-1,Астрахань.Ru TV
+#EXTINF:-1 group-title="Rossiya",Астрахань.Ru TV
 https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
-#EXTINF:-1,Башкортостан 24
+#EXTINF:-1 group-title="Rossiya",Башкортостан 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
-#EXTINF:-1,Белгород 24
+#EXTINF:-1 group-title="Rossiya",Белгород 24
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
-#EXTINF:-1,Большая Азия
+#EXTINF:-1 group-title="Rossiya",Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1,БСТ
+#EXTINF:-1 group-title="Rossiya",БСТ
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
-#EXTINF:-1,Вера 24
+#EXTINF:-1 group-title="Rossiya",Вера 24
 https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
-#EXTINF:-1,Ветта 24 Пермь
+#EXTINF:-1 group-title="Rossiya",Ветта 24 Пермь
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF:-1,Волга
+#EXTINF:-1 group-title="Rossiya",Волга
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1,Волгоград 24
+#EXTINF:-1 group-title="Rossiya",Волгоград 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
-#EXTINF:-1,Восток 24 Владивосток
+#EXTINF:-1 group-title="Rossiya",Восток 24 Владивосток
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
-#EXTINF:-1,Губерния Самара
+#EXTINF:-1 group-title="Rossiya",Губерния Самара
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:-1,Дагестан
+#EXTINF:-1 group-title="Rossiya",Дагестан
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
-#EXTINF:-1,Детское кино International
-https://autopilot.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1,Дождь
+#EXTINF:-1 group-title="Rossiya",Дождь
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
-#EXTINF:-1,Евразия Орск
+#EXTINF:-1 group-title="Rossiya",Евразия Орск
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-#EXTINF:-1,Енисей
+#EXTINF:-1 group-title="Rossiya",Енисей
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1,За!ТВ
+#EXTINF:-1 group-title="Rossiya",За!ТВ
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
-#EXTINF:-1,Запад 24 Калининград
+#EXTINF:-1 group-title="Rossiya",Запад 24 Калининград
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
-#EXTINF:-1,Известия
+#EXTINF:-1 group-title="Rossiya",Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1,Ингушетия ТВ
+#EXTINF:-1 group-title="Rossiya",Ингушетия ТВ
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
-#EXTINF:-1,К16 Саров
+#EXTINF:-1 group-title="Rossiya",К16 Саров
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1,Кавказ 24 Ставрополь
+#EXTINF:-1 group-title="Rossiya",Кавказ 24 Ставрополь
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
-#EXTINF:-1,Кино 1 International
-http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1,Красная линия
+#EXTINF:-1 group-title="Rossiya",Красная линия
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:-1,КРИК-ТВ Екатеринбург
+#EXTINF:-1 group-title="Rossiya",КРИК-ТВ Екатеринбург
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
-#EXTINF:-1,Крым 24
+#EXTINF:-1 group-title="Rossiya",Крым 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
-#EXTINF:-1,Курай Уфа
+#EXTINF:-1 group-title="Rossiya",Курай Уфа
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTINF:-1,ЛДПР ТВ
+#EXTINF:-1 group-title="Rossiya",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-#EXTINF:-1,Легендарный 24
+#EXTINF:-1 group-title="Rossiya",Легендарный 24
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-#EXTINF:-1,Луганск 24
+#EXTINF:-1 group-title="Rossiya",Луганск 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
-#EXTINF:-1,Магнат ТВ
+#EXTINF:-1 group-title="Rossiya",Магнат ТВ
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
-#EXTINF:-1,Миллет
+#EXTINF:-1 group-title="Rossiya",Миллет
 https://live1.1tvcrimea.ru/milletlive.m3u8
-#EXTINF:-1,Мир 24
+#EXTINF:-1 group-title="Rossiya",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1,Мир +2
+#EXTINF:-1 group-title="Rossiya",Мир +2
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
-#EXTINF:-1,Мир +7
+#EXTINF:-1 group-title="Rossiya",Мир +7
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
-#EXTINF:-1,Мир Белагорья
+#EXTINF:-1 group-title="Rossiya",Мир Белагорья
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:-1,МТВ Волгоград
+#EXTINF:-1 group-title="Rossiya",МТВ Волгоград
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1,Муз союз
+#EXTINF:-1 group-title="Rossiya",Муз союз
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1,Музыка 1 International
-https://kino-1.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1,Музыка Кино International
-https://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1,Надежда
+#EXTINF:-1 group-title="Rossiya",Надежда
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1,Нано ТВ HD
+#EXTINF:-1 group-title="Rossiya",Нано ТВ HD
 http://s1.tv-nano.com/Nano_rec/index.m3u8
-#EXTINF:-1,НВК Саха
+#EXTINF:-1 group-title="Rossiya",НВК Саха
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-#EXTINF:-1,Неизвестная Россия
+#EXTINF:-1 group-title="Rossiya",Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/playlist.m3u8
-#EXTINF:-1,Нижний Новгород 24
+#EXTINF:-1 group-title="Rossiya",Нижний Новгород 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
-#EXTINF:-1,Ника ТВ
+#EXTINF:-1 group-title="Rossiya",Ника ТВ
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1,Новый Русский
+#EXTINF:-1 group-title="Rossiya",Новый Русский
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
-#EXTINF:-1,НТВ +1
+#EXTINF:-1 group-title="Rossiya",НТВ +1
 https://cdn.ntv.ru/ntv1/playlist.m3u8
-#EXTINF:-1,НТВ +2
+#EXTINF:-1 group-title="Rossiya",НТВ +2
 https://cdn.ntv.ru/ntv2/playlist.m3u8
-#EXTINF:-1,НТВ +4
+#EXTINF:-1 group-title="Rossiya",НТВ +4
 https://cdn.ntv.ru/ntv4/playlist.m3u8
-#EXTINF:-1,НТВ +7
+#EXTINF:-1 group-title="Rossiya",НТВ +7
 https://cdn.ntv.ru/ntv7/playlist.m3u8
-#EXTINF:-1,НТВ Хит
+#EXTINF:-1 group-title="Rossiya",НТВ Хит
 https://cdn.ntv.ru/th_hit/playlist.m3u8
-#EXTINF:-1,НТМ
+#EXTINF:-1 group-title="Rossiya",НТМ
 https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1,НТС Севастополь
+#EXTINF:-1 group-title="Rossiya",НТС Севастополь
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:-1,ОТВ Приморье
+#EXTINF:-1 group-title="Rossiya",ОТВ Приморье
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
-#EXTINF:-1,Открытый мир. Здоровье
+#EXTINF:-1 group-title="Rossiya",Открытый мир. Здоровье
 https://v4.proofix.ru/0mir/index.m3u8
-#EXTINF:-1,Первый Крымский
+#EXTINF:-1 group-title="Rossiya",Первый Крымский
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
-#EXTINF:-1,Первый Музыкальный Канал HD
+#EXTINF:-1 group-title="Rossiya",Первый Музыкальный Канал HD
 http://rtmp.one.by:1300
-#EXTINF:-1,Первый Республиканский
+#EXTINF:-1 group-title="Rossiya",Первый Республиканский
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
-#EXTINF:-1,Прима
+#EXTINF:-1 group-title="Rossiya",Прима
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
-#EXTINF:-1,Радио Говорит Москва
+#EXTINF:-1 group-title="Rossiya",Радио Говорит Москва
 https://video.govoritmoskva.ru/rufm/index.m3u8
-#EXTINF:-1,Радио Шансон
+#EXTINF:-1 group-title="Rossiya",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:-1,РЖД ТВ
+#EXTINF:-1 group-title="Rossiya",РЖД ТВ
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
-#EXTINF:-1,Россия 1 Адыгея
+#EXTINF:-1 group-title="Rossiya",Россия 1 Адыгея
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8
-#EXTINF:-1,Россия 24 Хабаровск
+#EXTINF:-1 group-title="Rossiya",Россия 24 Хабаровск
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
-#EXTINF:-1,С1 Сургут
+#EXTINF:-1 group-title="Rossiya",С1 Сургут
 https://sitv.ru/hls/stv.m3u8
-#EXTINF:-1,Салям Уфа
+#EXTINF:-1 group-title="Rossiya",Салям Уфа
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#EXTINF:-1,Самара 24
+#EXTINF:-1 group-title="Rossiya",Самара 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
-#EXTINF:-1,Самара ГИС
+#EXTINF:-1 group-title="Rossiya",Самара ГИС
 https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Своё ТВ Ставрополь
+#EXTINF:-1 group-title="Rossiya",Своё ТВ Ставрополь
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
-#EXTINF:-1,Север Нарьян-Мар
+#EXTINF:-1 group-title="Rossiya",Север Нарьян-Мар
 https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
-#EXTINF:-1,Сибирь 24 Красноярск
+#EXTINF:-1 group-title="Rossiya",Сибирь 24 Красноярск
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
-#EXTINF:-1,Сибирь 24 Новосибирск
+#EXTINF:-1 group-title="Rossiya",Сибирь 24 Новосибирск
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
-#EXTINF:-1,Симферополь 24
+#EXTINF:-1 group-title="Rossiya",Симферополь 24
 https://simf.1tvcrimea.ru/simferopol24.m3u8
-#EXTINF:-1,Сити Эдем Play Христианский Музыкальный
-https://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:-1,Сити Эдем АвтоГид
-https://cityeden.catcast.tv/content/47515/index.m3u8
-#EXTINF:-1,Сити Эдем Бирма Play
-https://cityeden.catcast.tv/content/34364/index.m3u8
-#EXTINF:-1,Сити Эдем КиноАзия
-https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1,Сити Эдем КиноАрт
-https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:-1,Сити Эдем КиноДетектив
-https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1,Сити Эдем КиноДок
-https://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1,Сити Эдем КиноДрама
-https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1,Сити Эдем КиноКлассика
-https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1,Сити Эдем КиноКомедия
-https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1,Сити Эдем КиноФантастика
-https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1,Сити Эдем КиноЭкшен
-https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1,Сити Эдем Классическая Музыка
-https://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:-1,Сити Эдем МедЗдрав
-https://cityeden.catcast.tv/content/47519/index.m3u8
-#EXTINF:-1,Сити Эдем Рецепты Гурмана
-https://cityeden.catcast.tv/content/47516/index.m3u8
-#EXTINF:-1,Сити Эдем Сиртаки ТВ
-https://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:-1,Сити Эдем ТелеНовелла
-https://cityeden.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1,Смотрим Честный Детектив
+#EXTINF:-1 group-title="Rossiya",Смотрим Честный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1,Сочи 24 HD
+#EXTINF:-1 group-title="Rossiya",Сочи 24 HD
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:-1,Союз
+#EXTINF:-1 group-title="Rossiya",Союз
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1,Страна FM
+#EXTINF:-1 group-title="Rossiya",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1,СургутИнформТВ
+#EXTINF:-1 group-title="Rossiya",СургутИнформТВ
 https://sitv.ru/vgtrk/stv.m3u8
-#EXTINF:-1,Таврия
+#EXTINF:-1 group-title="Rossiya",Таврия
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
-#EXTINF:-1,Тамыр Уфа
+#EXTINF:-1 group-title="Rossiya",Тамыр Уфа
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
-#EXTINF:-1,ТВК 24
+#EXTINF:-1 group-title="Rossiya",ТВК 24
 https://air.tvk6.ru/tvk24/playlist.m3u8
-#EXTINF:-1,Твое TV HD
+#EXTINF:-1 group-title="Rossiya",Твое TV HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1,Твое ТВ Юмор
+#EXTINF:-1 group-title="Rossiya",Твое ТВ Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1,Телеканал 86 Сургут
+#EXTINF:-1 group-title="Rossiya",Телеканал 86 Сургут
 https://sitv.ru/hls/s86.m3u8
-#EXTINF:-1,Телеканал Краснодар
+#EXTINF:-1 group-title="Rossiya",Телеканал Краснодар
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1,Телерадиокомпания 555 Алушта
+#EXTINF:-1 group-title="Rossiya",Телерадиокомпания 555 Алушта
 http://trk555.tv:8888/live
-#EXTINF:-1,Телплюс ТВ Астрахань
+#EXTINF:-1 group-title="Rossiya",Телплюс ТВ Астрахань
 https://streaming.astrakhan.ru/telplushd/playlist.m3u8
-#EXTINF:-1,ТКР Рязань
+#EXTINF:-1 group-title="Rossiya",ТКР Рязань
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
-#EXTINF:-1,ТНВ-Планета Казань
+#EXTINF:-1 group-title="Rossiya",ТНВ-Планета Казань
 https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
-#EXTINF:-1,Толк HD
+#EXTINF:-1 group-title="Rossiya",Толк HD
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:-1,Три Ангела
+#EXTINF:-1 group-title="Rossiya",Три Ангела
 https://hls.tv.3angels.ru/stream.m3u8
-#EXTINF:-1,Урал 24 Челябинск
+#EXTINF:-1 group-title="Rossiya",Урал 24 Челябинск
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
-#EXTINF:-1,Щёлковское ТВ
+#EXTINF:-1 group-title="Rossiya",Щёлковское ТВ
 http://stream0.tv41.ru/live.m3u8
-#EXTINF:-1,Ювелирочка ТВ
+#EXTINF:-1 group-title="Rossiya",Ювелирочка ТВ
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1,Югра
+#EXTINF:-1 group-title="Rossiya",Югра
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
-#EXTINF:-1,SEX PRIVE
+
+#EXTINF:-1 group-title="Sport",UzSport
+https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sport",Setanta Sports 1 HD
+https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sport",Setanta Sports 2 HD
+https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sport",Viasat Sport
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sport",KHL 2
+https://stream8.cinerama.uz/1422/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sport",Insight TV HD
+https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sport",KHL Prime
+http://stream.mcquack.net/178/index.m3u8
+#EXTINF:-1 group-title="Sport",Match! Boets
+http://stream.mcquack.net/112/index.m3u8
+#EXTINF:-1 group-title="Sport",Match! Ultra
+http://stream.mcquack.net/169/index.m3u8
+#EXTINF:-1 group-title="Sport",MMA TV.com
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Okko Futbol
+http://stream.mcquack.net/491/index.m3u8
+#EXTINF:-1 group-title="Sport",Okko Prajm Sport
+http://stream.mcquack.net/493/index.m3u8
+#EXTINF:-1 group-title="Sport",Okko Sport
+http://stream.mcquack.net/492/index.m3u8
+#EXTINF:-1 group-title="Sport",Sportivnyy
+https://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:-1 group-title="Sport",viju+ Sport
+http://stream.mcquack.net/333/index.m3u8
+#EXTINF:-1 group-title="Sport",UDAR
+http://5.188.159.128:8070/udar/index.m3u8
+#EXTINF:-1 group-title="Sport",Trace Sport Stars Russia
+https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Musiqa",TRT Muzik
+https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Musiqa",15+ Music
+https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
+#EXTINF:-1 group-title="Musiqa",BRIDGE
+http://stream.mcquack.net/318/index.m3u8
+#EXTINF:-1 group-title="Musiqa",BRIDGE Classic
+http://stream.mcquack.net/272/index.m3u8
+#EXTINF:-1 group-title="Musiqa",BRIDGE Deluxe HD
+http://stream.mcquack.net/92/index.m3u8
+#EXTINF:-1 group-title="Musiqa",BRIDGE Hits
+http://stream.mcquack.net/320/index.m3u8
+#EXTINF:-1 group-title="Musiqa",Classic Music
+http://stream.mcquack.net/312/index.m3u8
+#EXTINF:-1 group-title="Musiqa",DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 group-title="Musiqa",First Music Channel Russia
+http://hls127.freeott.top:8080/1muz_HD/video.m3u8
+#EXTINF:-1 group-title="Musiqa",Maidan
+https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Musiqa",Mezzo Live
+http://stream.mcquack.net/276/index.m3u8
+#EXTINF:-1 group-title="Musiqa",Muzyka Live
+http://stream.mcquack.net/303/index.m3u8
+#EXTINF:-1 group-title="Musiqa",Muzyka Pervogo
+http://stream.mcquack.net/153/index.m3u8
+#EXTINF:-1 group-title="Musiqa",Russian MusicBox
+http://stream.mcquack.net/319/index.m3u8
+#EXTINF:-1 group-title="Musiqa",Shanson TV
+http://catchup.videoline.ru/shanson/index.m3u8
+#EXTINF:-1 group-title="Musiqa",Zhara
+http://hls127.freeott.top:8080/Zhara/video.m3u8
+#EXTINF:-1 group-title="Musiqa",KN Music TV
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Musiqa",Муз союз
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 group-title="Musiqa",Первый Музыкальный Канал HD
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="Musiqa",Сити Эдем Play Христианский Музыкальный
+https://cityeden.catcast.tv/content/34100/index.m3u8
+#EXTINF:-1 group-title="Musiqa",Сити Эдем Бирма Play
+https://cityeden.catcast.tv/content/34364/index.m3u8
+#EXTINF:-1 group-title="Musiqa",Сити Эдем Классическая Музыка
+https://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1 group-title="Musiqa",Сити Эдем Сиртаки ТВ
+https://cityeden.catcast.tv/content/46421/index.m3u8
+
+#EXTINF:-1 group-title="18+",SEX PRIVE
 http://45.190.28.50/SEX_PRIVE/playlist.m3u8
-#EXTINF:-1,Brazzers TV
+#EXTINF:-1 group-title="18+",Brazzers TV
 http://185.23.80.23:8080/BrazzersTV/index.m3u8
-#EXTINF:-1,Barely Legal
+#EXTINF:-1 group-title="18+",Barely Legal
 http://185.23.80.23:8080/BarelyLegal/index.m3u8
-#EXTINF:-1,Blue Hustler
+#EXTINF:-1 group-title="18+",Blue Hustler
 http://185.23.80.23:8080/BlueHustler/index.m3u8
-#EXTINF:-1,RusskayaNoch
+#EXTINF:-1 group-title="18+",RusskayaNoch
 http://185.23.80.23:8080/RusskayaNoch/index.m3u8
-#EXTINF:-1,Passion_XXX
+#EXTINF:-1 group-title="18+",Passion_XXX
 http://89.33.29.115:8080/Passion_XXX/index.m3u8
-#EXTINF:-1,Babes TV
+#EXTINF:-1 group-title="18+",Babes TV
 http://stream.mcquack.net/55/index.m3u8
-#EXTINF:-1,Exxxotica
+#EXTINF:-1 group-title="18+",Exxxotica
 http://stream.mcquack.net/57/index.m3u8
-#EXTINF:-1,Frenchlover
+#EXTINF:-1 group-title="18+",Frenchlover
 http://stream.mcquack.net/54/index.m3u8
-#EXTINF:-1,Erox
+#EXTINF:-1 group-title="18+",Erox
 http://stream.mcquack.net/58/index.m3u8
-#EXTINF:-1,Vivid Red
+#EXTINF:-1 group-title="18+",Vivid Red
 http://stream.mcquack.net/284/index.m3u8
-#EXTINF:-1,Barely Legal TV
+#EXTINF:-1 group-title="18+",Barely Legal TV
 http://stream.mcquack.net/289/index.m3u8
-#EXTINF:-1,Playboy TV
+#EXTINF:-1 group-title="18+",Playboy TV
 http://stream.mcquack.net/290/index.m3u8
-#EXTINF:-1,Brazzers TV Europa
+#EXTINF:-1 group-title="18+",Brazzers TV Europa
 http://193.239.186.231/BRAZZERS/index.m3u8
-#EXTINF:-1,BRAZZERS
+#EXTINF:-1 group-title="18+",BRAZZERS
 http://193.239.187.102/BRAZZERS/index.m3u8
-#EXTINF:-1,Red Lips 18+
+#EXTINF:-1 group-title="18+",Red Lips 18+
 http://tinyurl.com/TvZaTak37/Red_Lips/manifest.m3u8
-#EXTINF:-1,penthouse1
+#EXTINF:-1 group-title="18+",penthouse1
 http://185.98.209.11:81/penthouse1/index.m3u8?token=test
-#EXTINF:-1,RK TV
+#EXTINF:-1 group-title="18+",RK TV
 http://212.102.38.45/live/test_realitykings_sd_hevc/playlist.m3u8
-#EXTINF:-1,Brazzers
+#EXTINF:-1 group-title="18+",Brazzers
 http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1,Desire
+#EXTINF:-1 group-title="18+",Desire
 http://212.102.38.45/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1,Extasy 4K
+#EXTINF:-1 group-title="18+",Extasy 4K
 http://212.102.38.45/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1,Dorcel TV
+#EXTINF:-1 group-title="18+",Dorcel TV
 http://212.102.38.45/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1,Eroxxx
+#EXTINF:-1 group-title="18+",Eroxxx
 http://212.102.38.45/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1,Reality Kings TV
+#EXTINF:-1 group-title="18+",Reality Kings TV
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
-#EXTINF:-1,Digital Desire
+#EXTINF:-1 group-title="18+",Digital Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1,Brazzers TV Europe
+#EXTINF:-1 group-title="18+",Brazzers TV Europe
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1,Dorcel TV HD
+#EXTINF:-1 group-title="18+",Dorcel TV HD
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1,Eroxxx HD
+#EXTINF:-1 group-title="18+",Eroxxx HD
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1,Extasy TV
+#EXTINF:-1 group-title="18+",Extasy TV
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1,Gags Network
+#EXTINF:-1 group-title="18+",Gags Network
 http://ott.watch/stream/DTCEUBKDH5/458.m3u8
-#EXTINF:-1,Redlight
+#EXTINF:-1 group-title="18+",Redlight
 http://ott.watch/stream/DTCEUBKDH5/51.m3u8
-#EXTINF:-1,Hustler Europe
+#EXTINF:-1 group-title="18+",Hustler Europe
 http://ott.watch/stream/DTCEUBKDH5/52.m3u8
-#EXTINF:-1,Private TV
+#EXTINF:-1 group-title="18+",Private TV
 http://ott.watch/stream/DTCEUBKDH5/282.m3u8
-#EXTINF:-1,Cineman ExExEx
+#EXTINF:-1 group-title="18+",Cineman ExExEx
 http://ott.watch/stream/DTCEUBKDH5/56.m3u8
-#EXTINF:-1,Cineman ExExExTWO
+#EXTINF:-1 group-title="18+",Cineman ExExExTWO
 http://ott.watch/stream/DTCEUBKDH5/59.m3u8
-#EXTINF:-1,Red Lips
+#EXTINF:-1 group-title="18+",Red Lips
 http://ott.watch/stream/DTCEUBKDH5/61.m3u8
-#EXTINF:-1,Penthouse Gold
+#EXTINF:-1 group-title="18+",Penthouse Gold
 http://ott.watch/stream/DTCEUBKDH5/66.m3u8
